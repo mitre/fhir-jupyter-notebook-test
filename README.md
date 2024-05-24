@@ -2,6 +2,14 @@
 
 Test to launch a Jupyter Notebook on [mybinder.org](https://mybinder.org) to read data from a FHIR server.
 
+Click this button to launch the notebook contained in this repository:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mitre/fhir-jupyter-notebook-test/HEAD?labpath=notebook.ipynb)
+
+## Python version
+
+Note that as of 2024-05-24, mybinder.org supports Python 3.11.3. It does not support Python 3.12.
+
 ----
 
 ## License
